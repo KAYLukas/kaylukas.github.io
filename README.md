@@ -1,5 +1,3 @@
-<link rel="icon" href="favicon.svg">
-
 # Hi, I'm Kay!
 I'm a software engineer living and working in Zurich, where I'm currently on the team at Google DeepMind, building infrastructure for Gemini. I'm passionate about solving complex problems, whether they involve large-scale server infrastructure or cryptography.
 
